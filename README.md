@@ -27,7 +27,7 @@ Evaluating performance using `model.evaluate()` to report test loss and accuracy
 - Prediction Confidence Distribution
 
 ###  Visualizations
-![pie](ssss)
+![pie](https://github.com/Esraa-MOhamed7/Breast-Cancer-Detection-Using-NN/blob/main/Diagnosis%20Disribution.png)
 ![box](dlkq)
 ![line for loss](llj)
 ![line for accuarcy](hhhj)
