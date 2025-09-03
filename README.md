@@ -30,7 +30,7 @@ Evaluating performance using `model.evaluate()` to report test loss and accuracy
 ![pie](https://github.com/Esraa-MOhamed7/Breast-Cancer-Detection-Using-NN/blob/main/Diagnosis%20Disribution.png)
 ![box](https://github.com/Esraa-MOhamed7/Breast-Cancer-Detection-Using-NN/blob/main/diagnosis%20with%20radius_mean.png)
 ![line for loss](https://github.com/Esraa-MOhamed7/Breast-Cancer-Detection-Using-NN/blob/main/Loss%20Over%20Epochs.png)
-![line for accuarcy](hhhj)
+![line for accuarcy](https://github.com/Esraa-MOhamed7/Breast-Cancer-Detection-Using-NN/blob/main/Accuracy%20Over%20Epochs.png)
 
 ---
 🙏 Thank you for exploring this project. Your time and curiosity mean a lot — and I hope it brings value to your learning journey.
